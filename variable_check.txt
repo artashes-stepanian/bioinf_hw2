@@ -1,0 +1,11 @@
+=== LINUXINFO VARIABLE CHECK ===
+Command used: export LINUXINFO="Timestamp: $(date) | hostname is $(hostname) and logged in user is $(whoami)"
+
+Result:
+Timestamp: Sun Mar  1 11:25:13 PM MSK 2026 | hostname is art-ThinkPad-T480 and logged in user is art
+
+=== ADDITIONAL INFO ===
+Date: Sun Mar  1 11:25:29 PM MSK 2026
+Hostname: art-ThinkPad-T480
+User: art
+Current directory: /home/art

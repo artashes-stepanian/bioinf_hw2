@@ -139,3 +139,4 @@ alias ll='ls -la --time-style=full-iso'
 
 alias rm='rm -i'
 
+export LINUXINFO="Timestamp: $(date) | hostname is $(hostname) and logged in user is $(whoami)"
