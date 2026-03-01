@@ -1,0 +1,4 @@
+ 23:23:56 up  1:24,  1 user,  load average: 0,76, 0,77, 0,53
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+art               -                21:59     ?     0.00s  0.05s lightdm --session-child 13 20
+uid=1000(art) gid=1000(art) groups=1000(art),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users),105(lpadmin),125(sambashare)
